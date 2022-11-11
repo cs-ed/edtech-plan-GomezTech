@@ -1,13 +1,13 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9305785&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+The Purpose of my Educational Tech Plan is to create a foundation of a tech plan to support teachers as 
 
 ## Context
 
 ### Course
 
-The course name that will be teaching will be called Intro to Computer Science. 
+The course name that will be teaching will be called Introduction to Computer Science. The Course will be impleented 
 
 ### Situation
 
