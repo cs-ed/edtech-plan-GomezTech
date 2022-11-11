@@ -7,7 +7,7 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-Describe your course including the name, description, and grade level
+The course name that will be teaching will be called Intro to Computer Science. 
 
 ### Situation
 
