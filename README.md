@@ -11,6 +11,8 @@ The Purpose of This Educational Ed Plan to provide an overview of starting a com
 
 In this course middle school students will be introduced to the vast field of computer science through gaming and robotics. This course is designed for 7th and 8th grade students in a middle school setting. In addition students will be introduced to the basics of coding and those fundamental principles needed to understand commands in coding. 
 
+This class will be offered as an elective for both 7th grade and 8th grade studets. 
+
 Students will start the year working through coursework in CS First to gain a baseline understanding of block coding. Once that foundation has been established students will draw from their experiences to complete hands-on labs through VEX IQ that require robots to be built, coded, and tested to perform a variety of tasks. Students will have the opportunity to compete collaboratively with students from other schools at a VEX competition in the fall. At the conclusion of the VEX IQ competition season, students will transition to working on coursework through Elite Gaming Live Academy. EGL will introduce students to a variety of computer science pathways and match them to a curriculum path designed to their interests in computer science. Students who successfully earn enough points, from completion of coursework and projects, will be eligible to participate live in competitive gaming tournaments with other students across the country.  
 
 Game Design 
@@ -27,9 +29,6 @@ Cyber Security
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
 
 My School Palermo Middle is localed in the rural area surrounding Oroville. Our student population is made from students who live in town and rural surrounding areas. The parent support at our school is about half active parents and half inactive parents. Student demograghics are about the same were they're students who come from more affluent backgrouds. But most of our students come from hard lower class working famimlies. Mostly in Rural and blue collar jobs. Our students are greatly impacted by the backgrounds they come from. 
 
@@ -45,9 +44,6 @@ A barrier that our students can face is the understanding and persevering throug
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
 
 Most of the software that will be needed for this course of study will be online applications so students and teachers will need an installed web browser. Google Chrome would be most beneficial since it is installed on the Chromebooks the students will be using. By having Chrome installed on other devices this will allow syncing of bookmarks and materials the participants will need to access.
  
@@ -69,9 +65,6 @@ Software as it relates to the gaming:
 
 
 ### Hardware Specifications
-
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
 
 For general use in this course, students will be utilizing Chromebooks and iPads. Examples of the chromebooks and iPads used can be found below:
 Chromebook 11 G8 EE - Intel(R) Celeron(R) N4020 CPU @ 1.10GHz Running ChromeOS Version 99 or greater.
@@ -98,10 +91,6 @@ Storage 256GB  HDD
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
-
 Students will engage with the EGL website using a chromebook to complete coursework in their chosen gaming pathway. 
 
 The crucial components of Introducing Computer Science to our students specifically coding. The approach that will support students with the basic understanding of coding and functions is  the Peer Instruction pedagogy. Providing students with the step by step hands on instruction can provide students with a model to follow and explore the functions. By introducing the material using block coding, students will be able to understand the basics of putting code together. The tools used to support this are Scratch and CS First through google which utilizes block coding. Class routine is essential and establishes a daily warm up to review the concept (function) of the previous lesson.  The Daily Warm-Up will give students a chance to practice and reflect on the lesson before and provide them to discuss how certain codes interact with the main program or set code. 
@@ -117,10 +106,6 @@ Incentives: As students continue to meet these goals, this will allow students t
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
 
 One of the major draws of this course is the use of gaming, robotics, and competition to entice students to engage with the topics at hand. The ability to compete with students from across the nation has positive social impacts for our students. VEX IQ competitions require students to collaborate with students from different schools that they have met only moments before to come up with a plan to earn the most points possible during their collaborative match. They will have to depend upon skills in conflict resolution, healthy debate, and will have to take into account the various backgrounds and experience levels of their fellow players. Whether or not students venture into the career path of computer science these are skills they will take with them for life. 
 
