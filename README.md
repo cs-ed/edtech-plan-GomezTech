@@ -9,6 +9,8 @@ The Purpose of This Educational Ed Plan to provide an overview of starting a com
 
 ### Course
 
+Computer Science Code Design
+
 In this course middle school students will be introduced to the vast field of computer science through gaming and robotics. This course is designed for 7th and 8th grade students in a middle school setting. In addition students will be introduced to the basics of coding and those fundamental principles needed to understand commands in coding. 
 
 This class will be offered as an elective for both 7th grade and 8th grade studets. 
